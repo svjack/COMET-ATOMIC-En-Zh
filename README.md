@@ -154,7 +154,7 @@ The models are available at Huggingface Models:
 |---------|--------|-------|
 |English Comet Atomic  🐢| https://huggingface.co/svjack/comet-atomic-en | https://huggingface.co/spaces/svjack/English-Comet-Atomic |
 |Chinese Comet Atomic 🚀| https://huggingface.co/svjack/comet-atomic-zh | https://huggingface.co/spaces/svjack/Chinese-Comet-Atomic |
-|Chinese Comet Atomic T5 Lora 🚀| https://huggingface.co/svjack/mt0-large-comet-atomic-zh-peft-early-cpu ||
+|Chinese Comet Atomic T5 Lora 🚀| https://huggingface.co/svjack/mt0-large-comet-atomic-zh-peft-early-cpu | https://huggingface.co/spaces/svjack/Chinese-Comet-Atomic-T5-Large-Lora |
 
 You can try them online. Or check the model card to use them by yourself.
 
