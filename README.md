@@ -13,7 +13,7 @@
 ### Brief introduction
 Day-to-Day commonsense reasoning can be operationalized through a densely connected collection of inferential knowledge. Look up below picture:
 
-<img src="pics/ATOMIC.png" width = "200"/>
+<img src="pics/ATOMIC.png" width = "1500"/>
 
 #### Below is the discussion in [ATOMIC paper](https://arxiv.org/pdf/1811.00146.pdf)<br/>
 <b>
