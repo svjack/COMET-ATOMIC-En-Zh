@@ -10,6 +10,8 @@
   </p>
 </p>
 
+[中文介绍](README.md)
+
 ### Brief introduction
 Day-to-Day commonsense reasoning can be operationalized through a densely connected collection of inferential knowledge. Look up below picture:
 
