@@ -9,7 +9,7 @@
   </p>
 </p>
 
-[In English](README.md)
+[In English](README_EN.md)
 
 ### 简要引述
 生活中每日的常识推理可以通过一些稠密的推理性知识关系获得，如下图：
